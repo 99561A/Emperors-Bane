@@ -2,18 +2,22 @@
 <a href="https://www.vexrobotics.com/competition"><img src="https://raw.githubusercontent.com/99561A/Emperors-Bane/main/img/vex.png" alt="company logo" width="100"/></a><br>
 <a href="https://www.youtube.com/watch?v=CDDGBcs0TFM"><img src="https://raw.githubusercontent.com/99561A/Emperors-Bane/main/img/game.png" alt="game logo" width="100"/></a>
 
+## Overview
 Emperor's Bane was team Ambush's robot during the 2018-2019 VRC game, Turning Point.
 It made it to VRC Worlds 2019, where at one point it placed #1 in the middle school division.
 It accomplished this using a skilled driver and 11 separate autonomous programs that can be used anywhere on the field.
 
-# Awards
+## Awards
 #### 2019 
-- Tournament Champions @ [Laningsburgh](https://www.robotevents.com/RE-VRC-18-5018.html)
-- Robot Skills Champion @ [Elmira](https://www.robotevents.com/RE-VRC-18-5014.html)
+- Tournament Champions @ [Laningsburgh](https://www.robotevents.com/RE-VRC-18-5018.html#awards)
+- Robot Skills Champion @ [Elmira](https://www.robotevents.com/RE-VRC-18-5014.html#awards)
 - [Northern New York States](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-VRC-18-5022.html#awards) Tournament Champion
 - [Northern New York States](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-VRC-18-5022.html#awards) Robot Skills Champion
 
-# Subsystems
+## Code
+The `Match` directory contains all of the programs used in normal matches. The `Skills` directory contains programs used exclusively in robot skills matches. All code has been imported from the obsolete VEX Coding Studio to VEXcode V5 Pro. The original files are available in `Old`.
+
+## Subsystems
 - #### Drivetrain/Chassis
 The chassis was entirely made of steel to make the center of mass lower. This way, the bot wouldn't tip as easy. 4 motors were used here.
 - #### Lift arm
