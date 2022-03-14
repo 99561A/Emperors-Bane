@@ -1,5 +1,5 @@
 # Emperor's Bane
-<a href="https://www.vexrobotics.com/competition"><img src="https://raw.githubusercontent.com/99561A/Emperors-Bane/main/img/vex.png" alt="company logo" width="100"/></a>
+<a href="https://www.vexrobotics.com/competition"><img src="https://raw.githubusercontent.com/99561A/Emperors-Bane/main/img/vex.png" alt="company logo" width="100"/></a><br>
 <a href="https://www.youtube.com/watch?v=CDDGBcs0TFM"><img src="https://raw.githubusercontent.com/99561A/Emperors-Bane/main/img/game.png" alt="game logo" width="100"/></a>
 
 Emperor's Bane was team Ambush's robot during the 2018-2019 VRC game, Turning Point.
